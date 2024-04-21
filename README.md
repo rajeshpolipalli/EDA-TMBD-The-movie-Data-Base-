@@ -1,5 +1,5 @@
 
-# Explainatory Data Analysis of The Movie Database (TMDb)
+# Explotatry Data Analysis (EDA) of The Movie Database (TMDb)
 
 ### Project Overview
 
